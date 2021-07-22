@@ -1,0 +1,90 @@
+{
+  "DocumentId" : "d91384a4-b8ae-4132-b1f3-652a27d18713.txt_20201216145158697",
+  "TableLevelAttributes" : [ {
+    "FinStmtType" : "FOOTNOTE",
+    "TableName" : "Securities registered pursuant to Section 12(b) of the Act Name of each exchange on which",
+    "TableId" : 0,
+    "PageNumber" : 1,
+    "ConsolidatedStatus" : 1,
+    "LineitemLevelAttributes" : [ {
+      "RowID" : 0,
+      "RowOrder" : 0,
+      "FYEndDate" : "12/07/2020",
+      "DateUnit" : "Months",
+      "DetailedStatus" : 0,
+      "FilingLength" : 12,
+      "StatementDate" : null,
+      "ReportingMultiplier" : 1,
+      "LineItemValue" : "",
+      "ReportedValue" : "N/A",
+      "AsReportedDescription" : "None",
+      "EditedDescription" : "None",
+      "Bookmark" : "page=1&highlight=132.166,222.044,89.538,52.272",
+      "NegativeFlag" : "F",
+      "Currency" : null,
+      "NameSection" : [ ],
+      "ColumnSection" : [ "Trading Symbol(s)" ],
+      "FootnoteName" : [ ],
+      "Periodicity" : "Annual",
+      "ParentLineItemID" : null
+    }, {
+      "RowID" : 0,
+      "RowOrder" : 0,
+      "FYEndDate" : "12/07/2020",
+      "DateUnit" : "Months",
+      "DetailedStatus" : 0,
+      "FilingLength" : 12,
+      "StatementDate" : null,
+      "ReportingMultiplier" : 1,
+      "LineItemValue" : "",
+      "ReportedValue" : "N/A",
+      "AsReportedDescription" : "None",
+      "EditedDescription" : "None",
+      "Bookmark" : "page=1&highlight=222.044,360.038,89.538,52.272",
+      "NegativeFlag" : "F",
+      "Currency" : null,
+      "NameSection" : [ ],
+      "ColumnSection" : [ "Name of each exchange on which registered" ],
+      "FootnoteName" : [ ],
+      "Periodicity" : "Annual",
+      "ParentLineItemID" : null
+    } ],
+    "Content" : [ {
+      "RowIndex" : 1,
+      "ColumnIndex" : 1,
+      "RowSpan" : 1,
+      "ColumnSpan" : 1,
+      "Text" : "Title of each class"
+    }, {
+      "RowIndex" : 1,
+      "ColumnIndex" : 2,
+      "RowSpan" : 1,
+      "ColumnSpan" : 1,
+      "Text" : "Trading Symbol(s)"
+    }, {
+      "RowIndex" : 1,
+      "ColumnIndex" : 3,
+      "RowSpan" : 1,
+      "ColumnSpan" : 1,
+      "Text" : "Name of each exchange on which registered"
+    }, {
+      "RowIndex" : 2,
+      "ColumnIndex" : 1,
+      "RowSpan" : 1,
+      "ColumnSpan" : 1,
+      "Text" : "None"
+    }, {
+      "RowIndex" : 2,
+      "ColumnIndex" : 2,
+      "RowSpan" : 1,
+      "ColumnSpan" : 1,
+      "Text" : "N/A"
+    }, {
+      "RowIndex" : 2,
+      "ColumnIndex" : 3,
+      "RowSpan" : 1,
+      "ColumnSpan" : 1,
+      "Text" : "N/A"
+    } ]
+  } ]
+}
